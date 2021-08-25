@@ -5,6 +5,7 @@ Wisdom College now requires a design of management system
 
 There are 2 blocks and on each block, there is 4 room types.
 Each room types has 100 rooms with different expenses entitled on the room
+Memory Addresses are involved
 
 Functionality of the system includes
 1. Store data about hosteller in txt file
@@ -14,3 +15,8 @@ Functionality of the system includes
 5. Allow early cancellation
 6. Allow changes in room type
 7. Print a receipt and total amount receivable/payable
+
+Files included:
+1. Code Folder (C programming)
+2. Documentation (pdf)
+3. Flow Chart (vsdx)
